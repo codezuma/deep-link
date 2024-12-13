@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/class_details/:id",
+        "destination": "/index.html"
+      }
+    ]
+  }
