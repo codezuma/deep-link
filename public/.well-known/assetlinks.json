@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.samatvalife.wellness",
+            "sha256_cert_fingerprints": [
+                "72:94:E4:C7:D3:74:A3:15:69:35:FC:04:08:01:01:B1:85:50:1D:BE:4E:14:B9:C1:92:E8:8B:AA:80:C7:22:EB"
+            ]
+        }
+    }
+]
